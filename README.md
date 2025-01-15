@@ -100,6 +100,9 @@ Exponential              no        0.0073         0.0000         0.5089         
 ```
 
 ### Visualization
+
+![Figure_1](https://github.com/user-attachments/assets/99420a81-75a4-4cd7-81b8-0edaa6de08ba)
+
 The script generates the following plots:
 - **Original Data**: Histogram and Q-Q plot
 - **Transformed Data**: Histogram and Q-Q plot for each transformation that passes normality
